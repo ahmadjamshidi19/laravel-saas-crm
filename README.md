@@ -114,7 +114,7 @@ routes/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/laravel-saas-crm.git
+git clone https://github.com/ahmadjamshidi19/laravel-saas-crm.git
 
 cd laravel-saas-crm
 
